@@ -1,0 +1,17 @@
+D:\zky\dashboard\dashboard\bin\Debug\net10.0-windows\dashboard.exe
+D:\zky\dashboard\dashboard\bin\Debug\net10.0-windows\dashboard.deps.json
+D:\zky\dashboard\dashboard\bin\Debug\net10.0-windows\dashboard.runtimeconfig.json
+D:\zky\dashboard\dashboard\bin\Debug\net10.0-windows\dashboard.dll
+D:\zky\dashboard\dashboard\bin\Debug\net10.0-windows\dashboard.pdb
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.Form1.resources
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.csproj.GenerateResource.cache
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.AssemblyInfoInputs.cache
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.AssemblyInfo.cs
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.csproj.CoreCompileInputs.cache
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.dll
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\refint\dashboard.dll
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.pdb
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.genruntimeconfig.cache
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\ref\dashboard.dll
+D:\zky\dashboard\dashboard\obj\Debug\net10.0-windows\dashboard.csproj.Up2Date
